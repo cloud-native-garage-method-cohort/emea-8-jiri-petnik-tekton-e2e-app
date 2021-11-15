@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# do not include my secrets
+tekton/base/quay-io-credentials.Secret.yaml
