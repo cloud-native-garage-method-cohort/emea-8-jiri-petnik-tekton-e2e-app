@@ -35,3 +35,4 @@ yarn-error.log*
 
 # do not include my secrets
 tekton/base/quay-io-credentials.Secret.yaml
+tekton/base/git-credentials.Secret.yaml
