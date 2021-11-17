@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Commit test: testing e2e pipeline delivery
+          Commit test: testing e2e pipeline delivery v2
         </p>
 
         <div className={styles.grid}>
